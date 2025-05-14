@@ -85,6 +85,10 @@ The following visualizations are automatically generated:
 
 Run `examples.py` to see a working example of the code.
 
+## Disclaimer
+
+This project is for educational purposes only. It demonstrates how to build and evaluate a basic trading strategy using Bollinger Bands. The strategy is not optimized for live trading and is unlikely to be profitable in real-world market conditions without significant refinement. 
+
 ## License
 
 This project is licensed under the MIT License.  
